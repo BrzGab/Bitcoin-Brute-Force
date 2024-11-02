@@ -27,10 +27,13 @@ Para rodar o código, você precisará ter o seguinte:
 
 - **Python 3**: Certifique-se de que o Python 3 esteja instalado em sua máquina.
 - **Bibliotecas Necessárias**: O código utiliza algumas bibliotecas que podem ser instaladas via pip.
+- Recomendo rodar em uma VPS.
 
 ## Instalação
 
 1. **Clone o repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_DIRETORIO>
+   git clone git@github.com:BrzGab/Bitcoin-Brute-Force.git
+   cd Bitcoin-Brute-Force
+   pip3 install -r requirements.txt
+   python3 btc-bruteforce-v1.py
