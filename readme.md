@@ -33,7 +33,7 @@ Para rodar o código, você precisará ter o seguinte:
 
 1. **Clone o repositório**:
    ```bash
-   git clone git@github.com:BrzGab/Bitcoin-Brute-Force.git
+   git clone https://github.com/BrzGab/Bitcoin-Brute-Force.git
    cd Bitcoin-Brute-Force
 
 2. **Instale os Requerimentos**:
