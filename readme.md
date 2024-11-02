@@ -35,5 +35,12 @@ Para rodar o código, você precisará ter o seguinte:
    ```bash
    git clone git@github.com:BrzGab/Bitcoin-Brute-Force.git
    cd Bitcoin-Brute-Force
+
+2. **Instale os Requerimentos**:
+   ```bash
    pip3 install -r requirements.txt
+   
+3. **Rode o Programa**:
+   ```bash
    python3 btc-bruteforce-v1.py
+   
